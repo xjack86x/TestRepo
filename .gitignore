@@ -1,0 +1,9 @@
+# Created by https://www.gitignore.io/api/netbeans
+
+### NetBeans ###
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
